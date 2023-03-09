@@ -17,3 +17,6 @@ Uygulama: İlk aşamada basit bir dApp geliştirdim ancak UI tarafı ve solana t
 Neden Solana: Solana üzerinde fee'ler düşük ve işlemler hızlı.
 
 Sonuç: Uygulamam futbol ve blockchain ekonominisine pozitif değer sağlayacak ve ileride potansiyelli gençleri profesyonel seviyeye çıkmasında destekleyecek.
+
+
+Dipnot: Projemin deploy ve son web bağlantı kısmında hatalar aldım bu nedenle şu an stabil çalışmıyor :(
